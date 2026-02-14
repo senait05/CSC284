@@ -9,7 +9,8 @@ This program will be downloaded by class members of CSC284 and
 '''
 
 classList=[
-'Joel Moore'
+'Joel Moore',
+'Senait Ghebremichael'
 
 ]
 
